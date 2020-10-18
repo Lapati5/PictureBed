@@ -1,2 +1,2 @@
 # PictureBed
-这是Lapati5的图床
+图床
